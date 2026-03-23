@@ -12,4 +12,4 @@
 
 - Repetições
   - For
-    -For em listas
+    - For em listas
