@@ -13,3 +13,5 @@
 - Repetições
   - For
     - For em listas
+    - Break
+    - Continue
