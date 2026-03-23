@@ -7,3 +7,9 @@
   - Elif
   - Else
   - Match case
+
+## Aula 3
+
+- Repetições
+  - For
+    -For em listas
