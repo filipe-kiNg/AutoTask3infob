@@ -17,3 +17,6 @@
     - Continue
 
 ## Aula 4
+
+  - While
+  - Try Except
