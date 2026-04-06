@@ -26,4 +26,4 @@
 ## Aula 5
 
   - Import
-    - Importar funções de um outro ´código´
+    - Importar funções de um outro código
