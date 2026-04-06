@@ -21,4 +21,9 @@
   - While
   - Try Except
   - Funções
-    - Definir funções e como importa-las para outro código
+    - Definir funções
+
+## Aula 5
+
+  - Import
+    - Importar funções de um outro ´código´
