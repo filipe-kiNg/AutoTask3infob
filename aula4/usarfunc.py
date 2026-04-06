@@ -1,1 +1,1 @@
-from funcao import 
+from funcao import somar

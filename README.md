@@ -20,3 +20,5 @@
 
   - While
   - Try Except
+  - Funções
+    - Definir funções e como importa-las para outro código
