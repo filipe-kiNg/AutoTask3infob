@@ -27,3 +27,7 @@
 
   - Import
     - Importar funções de um outro código
+
+## Bibliotecas
+
+  - `pyautogui`
