@@ -33,6 +33,9 @@
   - Biblioteca pyautogui
     - Como clicar na tela
       - `click`
+      - `locateOnScreen`
+        - `confidence`
+        - `greyscale`
 
 ## Bibliotecas
 
