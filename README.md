@@ -37,3 +37,5 @@
 ## Bibliotecas
 
   - `pyautogui`
+  - `pillow`
+  - `opencv-python`
