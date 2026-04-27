@@ -28,6 +28,12 @@
   - Import
     - Importar funções de um outro código
 
+## Aula 6
+
+  - Biblioteca pyautogui
+    - Como clicar na tela
+      - `click`
+
 ## Bibliotecas
 
   - `pyautogui`
