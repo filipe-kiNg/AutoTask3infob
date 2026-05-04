@@ -37,8 +37,17 @@
         - `confidence`
         - `greyscale`
 
+## Aula 7
+
+  - Biblioteca pyautogui
+    - `write`
+    - `prompt`
+    - `press`
+    - `hotkey`
+
 ## Bibliotecas
 
   - `pyautogui`
   - `pillow`
   - `opencv-python`
+  - `time`
