@@ -45,6 +45,14 @@
     - `press`
     - `hotkey`
 
+## Aula 6
+
+  - Introdução a pandas
+    - Biblioteca `pandas`
+      - `loc` 
+      - `read_excel`
+    - `openpyxl`
+
 ## Bibliotecas
 
   - `pyautogui`
