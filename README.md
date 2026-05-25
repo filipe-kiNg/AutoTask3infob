@@ -59,3 +59,4 @@
   - `pillow`
   - `opencv-python`
   - `time`
+  - `pandas`
