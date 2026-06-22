@@ -28,7 +28,7 @@
   - Import
     - Importar funções de um outro código
 
-## Aula 6
+## Aula 7
 
   - Biblioteca pyautogui
     - Como clicar na tela
@@ -37,7 +37,7 @@
         - `confidence`
         - `greyscale`
 
-## Aula 7
+## Aula 8
 
   - Biblioteca pyautogui
     - `write`
@@ -45,12 +45,22 @@
     - `press`
     - `hotkey`
 
-## Aula 6
+## Aula 9
 
   - Introdução a pandas
     - Biblioteca `pandas`
       - `loc` 
+        - `df_notas = df_notas.loc[df_notas["Nota"] > 7]`
       - `read_excel`
+        - `df_notas = pd.read_excel("pandas\\notas_estudantes.xlsx", sheet_name="Notas")` 
+      - `groupby`
+        - `df_notas = df_notas.groupby("Nome")["Nota"].mean()`
+      - `to_csv`
+        - `df_notas.to_csv("notas_estudantes_ordenado.xlsx", index=False, encoding="utf-8")`
+      - `merge`
+        - `df_atividades.merge(df_notas)`
+      - `sort_values`
+        - `df_notas.sort_values("Nome", inplace=True)`
     - `openpyxl`
 
 ## Bibliotecas

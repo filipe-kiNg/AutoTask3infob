@@ -28,5 +28,5 @@ df_notas.loc[len(df_notas)] = ["Lucas Silva", "Prova final", 8.5]
 
 #print(df_atividades.merge(df_notas))
 
-df_notas.to_csv("notas_estudantes_ordenado.xlsx", index=False, encoding="utf-8")
+#df_notas.to_csv("notas_estudantes_ordenado.xlsx", index=False, encoding="utf-8")
 
