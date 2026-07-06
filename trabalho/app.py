@@ -22,18 +22,18 @@ for index, row in sheet.iterrows():
     prd = row["Produto"]
     preco = str(row["Preco"])
 
-    pya.write(name)
+    pya.write(name, interval=0.01)
     pya.write(":")
     pya.press("enter")
     pya.press('tab')
-    pya.write(cpf)
+    pya.write(cpf, interval=0.01)
     pya.press("enter")
     pya.press('tab')
-    pya.write(prd)
+    pya.write(prd, interval=0.01)
     pya.press("enter")
     pya.press('tab')
     pya.write("R$")
-    pya.write(preco)
+    pya.write(preco, interval=0.01)
     pya.press("enter")
     
 sleep(1)
