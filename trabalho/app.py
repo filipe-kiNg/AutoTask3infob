@@ -18,7 +18,7 @@ pya.hotkey("win","up")
 
 for index, row in sheet.iterrows():
     name = row['Nome']
-    cpf = row['Cpf']
+    cpf = str(row['Cpf'])
     prd = row["Produto"]
     preco = str(row["Preco"])
 
@@ -35,6 +35,14 @@ for index, row in sheet.iterrows():
     pya.write("R$")
     pya.write(preco)
     pya.press("enter")
+    
+sleep(1)
+pya.hotkey('ctrl',"shift",'s')
+sleep(1)
+pya.write("dados clientes")
+sleep(1)
+pya.press("enter")
+
     
     
   
